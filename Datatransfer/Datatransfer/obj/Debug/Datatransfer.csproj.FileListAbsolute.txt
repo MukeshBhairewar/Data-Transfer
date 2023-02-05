@@ -1,0 +1,7 @@
+D:\skillupfinal\Datatransfer\Datatransfer\bin\Debug\Datatransfer.exe.config
+D:\skillupfinal\Datatransfer\Datatransfer\bin\Debug\Datatransfer.exe
+D:\skillupfinal\Datatransfer\Datatransfer\bin\Debug\Datatransfer.pdb
+D:\skillupfinal\Datatransfer\Datatransfer\obj\Debug\Datatransfer.csprojAssemblyReference.cache
+D:\skillupfinal\Datatransfer\Datatransfer\obj\Debug\Datatransfer.csproj.CoreCompileInputs.cache
+D:\skillupfinal\Datatransfer\Datatransfer\obj\Debug\Datatransfer.exe
+D:\skillupfinal\Datatransfer\Datatransfer\obj\Debug\Datatransfer.pdb

@@ -1,0 +1,6 @@
+D:\skillupfinal\Datatransfer\Datatransfer\bin\Release\Datatransfer.exe.config
+D:\skillupfinal\Datatransfer\Datatransfer\bin\Release\Datatransfer.exe
+D:\skillupfinal\Datatransfer\Datatransfer\bin\Release\Datatransfer.pdb
+D:\skillupfinal\Datatransfer\Datatransfer\obj\Release\Datatransfer.csproj.CoreCompileInputs.cache
+D:\skillupfinal\Datatransfer\Datatransfer\obj\Release\Datatransfer.exe
+D:\skillupfinal\Datatransfer\Datatransfer\obj\Release\Datatransfer.pdb
